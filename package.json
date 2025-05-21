@@ -1,11 +1,22 @@
 {
   "name": "code-documentor",
   "displayName": "code-doc-helper",
+  "icon": "images/logo.png",
   "description": "Adds and views documentation for selected code",
   "version": "0.0.1",
+  "publisher": "VGI",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vaibhavindure188/Code-Documentor-Extention-VSCode"
+  },
+  "bugs": {
+    "url": "https://github.com/vaibhavindure188/Code-Documentor-Extention-VSCode/issues"
+  },
+  "homepage": "https://github.com/vaibhavindure188/Code-Documentor-Extention-VSCode#readme",
   "categories": [
     "Other"
   ],
